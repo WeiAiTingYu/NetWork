@@ -1,0 +1,5 @@
+c:\users\王小兵\documents\visual studio 2015\Projects\NetWork\NetWork\bin\Debug\NetWork.exe.config
+c:\users\王小兵\documents\visual studio 2015\Projects\NetWork\NetWork\obj\Debug\NetWork.csprojResolveAssemblyReference.cache
+c:\users\王小兵\documents\visual studio 2015\Projects\NetWork\NetWork\obj\Debug\NetWork.Service.resources
+c:\users\王小兵\documents\visual studio 2015\Projects\NetWork\NetWork\obj\Debug\NetWork.Properties.Resources.resources
+c:\users\王小兵\documents\visual studio 2015\Projects\NetWork\NetWork\obj\Debug\NetWork.csproj.GenerateResource.Cache

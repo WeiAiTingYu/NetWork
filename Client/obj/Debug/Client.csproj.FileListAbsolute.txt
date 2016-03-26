@@ -1,0 +1,22 @@
+c:\Users\王小兵\documents\visual studio 2015\Projects\NetWork\Client\bin\Debug\Client.exe.config
+c:\Users\王小兵\documents\visual studio 2015\Projects\NetWork\Client\bin\Debug\Client.exe
+c:\Users\王小兵\documents\visual studio 2015\Projects\NetWork\Client\bin\Debug\Client.pdb
+c:\Users\王小兵\documents\visual studio 2015\Projects\NetWork\Client\obj\Debug\Client.Properties.Resources.resources
+c:\Users\王小兵\documents\visual studio 2015\Projects\NetWork\Client\obj\Debug\Client.csproj.GenerateResource.Cache
+c:\Users\王小兵\documents\visual studio 2015\Projects\NetWork\Client\obj\Debug\Client.exe
+c:\Users\王小兵\documents\visual studio 2015\Projects\NetWork\Client\obj\Debug\Client.pdb
+C:\Users\王小兵\Documents\Visual Studio 2015\Projects\NetWork\Client\obj\Debug\Client.Form1.resources
+C:\Users\王小兵\documents\visual studio 2015\Projects\NetWork\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache
+C:\Users\王小兵\documents\visual studio 2015\Projects\NetWork\Client\obj\Debug\Client.Login.resources
+C:\Users\王小兵\documents\visual studio 2015\Projects\NetWork\Client\obj\Debug\Client.Main.resources
+C:\Users\王小兵\Desktop\NetWork\Client\bin\Debug\Client.exe.config
+C:\Users\王小兵\Desktop\NetWork\Client\obj\Debug\Client.exe
+C:\Users\王小兵\Desktop\NetWork\Client\obj\Debug\Client.pdb
+C:\Users\王小兵\Desktop\NetWork\Client\bin\Debug\Client.exe
+C:\Users\王小兵\Desktop\NetWork\Client\bin\Debug\Client.pdb
+C:\Users\王小兵\Desktop\NetWork\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache
+C:\Users\王小兵\Desktop\NetWork\Client\obj\Debug\Client.Form1.resources
+C:\Users\王小兵\Desktop\NetWork\Client\obj\Debug\Client.Login.resources
+C:\Users\王小兵\Desktop\NetWork\Client\obj\Debug\Client.Main.resources
+C:\Users\王小兵\Desktop\NetWork\Client\obj\Debug\Client.Properties.Resources.resources
+C:\Users\王小兵\Desktop\NetWork\Client\obj\Debug\Client.csproj.GenerateResource.Cache

@@ -1,0 +1,18 @@
+C:\Users\王小兵\Documents\Visual Studio 2015\Projects\NetWork\Service\bin\Debug\Service.exe.config
+C:\Users\王小兵\Documents\Visual Studio 2015\Projects\NetWork\Service\bin\Debug\Service.exe
+C:\Users\王小兵\Documents\Visual Studio 2015\Projects\NetWork\Service\bin\Debug\Service.pdb
+C:\Users\王小兵\Documents\Visual Studio 2015\Projects\NetWork\Service\obj\Debug\Service.Properties.Resources.resources
+C:\Users\王小兵\Documents\Visual Studio 2015\Projects\NetWork\Service\obj\Debug\Service.csproj.GenerateResource.Cache
+C:\Users\王小兵\Documents\Visual Studio 2015\Projects\NetWork\Service\obj\Debug\Service.exe
+C:\Users\王小兵\Documents\Visual Studio 2015\Projects\NetWork\Service\obj\Debug\Service.pdb
+C:\Users\王小兵\Documents\Visual Studio 2015\Projects\NetWork\Service\obj\Debug\Service.Service.resources
+C:\Users\王小兵\Documents\Visual Studio 2015\Projects\NetWork\Service\obj\Debug\Service.csprojResolveAssemblyReference.cache
+C:\Users\王小兵\Desktop\NetWork\Service\bin\Debug\Service.exe.config
+C:\Users\王小兵\Desktop\NetWork\Service\obj\Debug\Service.exe
+C:\Users\王小兵\Desktop\NetWork\Service\obj\Debug\Service.pdb
+C:\Users\王小兵\Desktop\NetWork\Service\bin\Debug\Service.exe
+C:\Users\王小兵\Desktop\NetWork\Service\bin\Debug\Service.pdb
+C:\Users\王小兵\Desktop\NetWork\Service\obj\Debug\Service.csprojResolveAssemblyReference.cache
+C:\Users\王小兵\Desktop\NetWork\Service\obj\Debug\Service.Properties.Resources.resources
+C:\Users\王小兵\Desktop\NetWork\Service\obj\Debug\Service.Service.resources
+C:\Users\王小兵\Desktop\NetWork\Service\obj\Debug\Service.csproj.GenerateResource.Cache
